@@ -108,7 +108,7 @@ transform([['border-radius', '50px']], ['borderRadius']);
 
 This can also be done by passing a third argument, `false` to `getStylesForProperty`.
 
-## License
+## License ou
 
 Licensed under the MIT License, Copyright © 2019 Krister Kari, Jacob Parker, and Maximilian Stoiber.
 
